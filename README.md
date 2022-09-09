@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **washim.raza.cse21@heritageit.edu.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hJQ4RMAvZGbq3yM60Zuff2fA20ZXzo9y/edit?usp=sharing&ouid=113944302907784172175&rtpof=true&sd=true](https://docs.google.com/document/d/1hJQ4RMAvZGbq3yM60Zuff2fA20ZXzo9y/edit?usp=sharing&ouid=113944302907784172175&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1_61mRgDOCN6GD-WMqhmGfrYH25t3rO9-?usp=sharing](https://drive.google.com/drive/folders/1_61mRgDOCN6GD-WMqhmGfrYH25t3rO9-?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
