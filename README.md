@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://portfoliowashim.netlify.app/](https://portfoliowashim.netlify.app//)
+- 👨‍💻 All of my projects are available at [https://waseemraza.netlify.app/](https://waseemraza.netlify.app/)
 
 - 💬 Ask me about **Java, DSA, Spring Boot**
 
