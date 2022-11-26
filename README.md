@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://washimraza1234.github.io/myProtfolio/)
+[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://washimraza1234.github.io/portfolioWaseem/)
 <h1 align="center">Hi 👋, I'm Washim Raza</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://waseemraza.netlify.app/](https://waseemraza.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://washimraza1234.github.io/portfolioWaseem/](https://washimraza1234.github.io/portfolioWaseem/)
 
 - 💬 Ask me about **Java, DSA, Spring Boot**
 
 - 📫 How to reach me **washim.raza.cse21@heritageit.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1_61mRgDOCN6GD-WMqhmGfrYH25t3rO9-?usp=sharing](https://drive.google.com/drive/folders/1_61mRgDOCN6GD-WMqhmGfrYH25t3rO9-?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_xOyH4ddZzFVIyUFzNu3q0VF2DU7H36v/view?usp=sharing](https://drive.google.com/file/d/1_xOyH4ddZzFVIyUFzNu3q0VF2DU7H36v/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
